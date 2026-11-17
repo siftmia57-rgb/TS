@@ -1,0 +1,6 @@
+{
+  "name": "TS Quantum",
+  "description": "Mobile-first dark-themed real-time TradingView market analysis, technical indicator engine, and Gemini Vision chart analyzer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
